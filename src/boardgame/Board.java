@@ -1,7 +1,5 @@
 package boardgame;
 
-import java.io.PipedOutputStream;
-
 public class Board {
     private int rows;
     private int columns;
